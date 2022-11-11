@@ -33,7 +33,7 @@ public class Scanner_Using {
 	    music = sc.nextInt();
 	    System.out.println("과학점수를 입력 하세요>>>");
 	    sience = sc.nextInt();
-	    
+	  
 	    int sum;		//합계
 	    	sum = kor + eng + math + music +sience;
 	    double avg;		//평균
